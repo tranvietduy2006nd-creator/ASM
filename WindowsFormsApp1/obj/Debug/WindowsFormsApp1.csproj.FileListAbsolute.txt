@@ -1,0 +1,29 @@
+D:\Apdev\DATABASEASM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Apdev\DATABASEASM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Apdev\DATABASEASM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Apdev\DATABASEASM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Apdev\DATABASEASM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+D:\Apdev\DATABASEASM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductForm.resources
+D:\Apdev\DATABASEASM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Apdev\DATABASEASM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestConnection.resources
+D:\Apdev\DATABASEASM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Apdev\DATABASEASM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Apdev\DATABASEASM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Apdev\DATABASEASM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Apdev\DATABASEASM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SalesForm.resources
+D:\Apdev\DATABASEASM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\db books authour\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\db books authour\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\db books authour\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\db books authour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\db books authour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\db books authour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\db books authour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProductForm.resources
+C:\db books authour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\db books authour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SalesForm.resources
+C:\db books authour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TestConnection.resources
+C:\db books authour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\db books authour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\db books authour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\db books authour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\db books authour\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WarehouseForm.resources
